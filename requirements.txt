@@ -25,12 +25,16 @@ pytesseract
 pdf2image
 pillow
 google-genai
-dramatiq[redis], redis
+dramatiq[redis]
+redis
 resend
 africastalking
 apscheduler
 weasyprint
 openpyxl
-google-generativeai, Pillow
-pandas, openpyxl, xlrd
+google-generativeai
+Pillow
+pandas
+openpyxl
+xlrd
 apscheduler
